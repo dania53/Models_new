@@ -1,0 +1,8 @@
+numpy = 1.19.2
+matplotlib=3.5.2
+seaborn=0.11.0
+pandas=1.1.3
+tabulate= 0.8.9
+Watermark==2.3.0
+math
+random
